@@ -19,8 +19,7 @@
 ### 💼 Projects
 - **[CacheUpp](https://cacheupp.com)**  
   A modern social media platform for college communities.  
-  Built and deployed using the MERN stack, WebSockets, and cloud services.
-
+  Built and deployed as a collaborative group project using the MERN stack, WebSockets, and cloud services
 ---
 
 ### 📊 GitHub Stats
