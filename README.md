@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Sharath Devadiga
 
-🎓 Pursuing a Bachelor of Engineering in Information Technology at Mumbai University.  
-💡 Passionate about software development — building, debugging, and improving through hands-on experience.  
-🛠️ Proficient in the MERN stack and actively exploring PostgreSQL, Prisma, and Next.js to deepen my full-stack development skills.  
-🚀 Always learning, one commit at a time.
+ Pursuing a Bachelor of Engineering in Information Technology at Mumbai University.  
+ Passionate about software development — building, debugging, and improving through hands-on experience.  
+ Proficient in the MERN stack and actively exploring PostgreSQL, Prisma, and Next.js to deepen my full-stack development skills.  
+ Always learning, one commit at a time.
 
 ---
 
