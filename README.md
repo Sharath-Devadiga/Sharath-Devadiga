@@ -1,13 +1,12 @@
 # 👋 Hey, I'm Sharath
 
-### Full-Stack Developer · TypeScript · Next.js · Node.js
+### Full-Stack Developer 
 
 Tech enthusiast and IT graduate who likes taking things apart to understand
 how they work — then building them back better.
 
-Mostly working with full-stack development, backend systems, databases,
-and real-time applications. Currently exploring infrastructure,
-operations, and AI-powered applications.
+Mostly working with full-stack development, backend systems, databases, and real-time applications. Currently exploring infrastructure, operations, and AI-powered applications.
+
 ---
 
 ## 🛠️ Things I Work With
