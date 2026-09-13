@@ -77,10 +77,14 @@ Bookmarks · Media embeds · Attachments · Shareable collections
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
-</p>
+<div align="center">
+  <a href="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Sharath-Devadiga&show_icons=true&theme=radical" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Sharath-Devadiga&show_icons=true&theme=radical" height="180" alt="GitHub stats" class="cursor-pointer" />
+  </a>
+  <a href="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Sharath_Devadiga&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=4&theme=radical&hide_border=false" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Sharath-Devadiga&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=4&theme=radical&hide_border=false" height="180" alt="Top languages" class="cursor-pointer" />
+  </a>
+</div>
 
 ---
 
