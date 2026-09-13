@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Builder · Curious About Systems
 
-[Portfolio](https://devadigascode.site) · [LinkedIn](https://www.linkedin.com/in/sharath-devadiga)
+[Portfolio](https://devadigascode.site) · [LinkedIn](www.linkedin.com/in/sharath-devadiga-43471b2aa)
 
 </div>
 
