@@ -39,9 +39,6 @@ applications, and system design.**
   <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,prisma,tailwind,docker,git,github,postman&perline=22" width="850" />
 </p>
 
-`Socket.IO` · `Zustand` · `JWT` · `pgvector`
----
-
 ## 🧩 Selected Builds
 
 ### 🧠 CacheUpp · <sup>[↗](https://cacheupp.devadigascode.site/)</sup>
