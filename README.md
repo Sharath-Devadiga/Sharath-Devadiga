@@ -4,7 +4,9 @@
 
 ### Full-Stack Developer · Builder · Curious About Systems
 
-[Portfolio](https://devadigascode.site) · [LinkedIn](www.linkedin.com/in/sharath-devadiga-43471b2aa)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devadigascode.site-181717?style=flat-square)](https://devadigascode.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
+[![Email](https://img.shields.io/badge/📧_sharath13feb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)
 
 </div>
 
@@ -75,28 +77,6 @@ Bookmarks · Media embeds · Attachments · Shareable collections
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <a href="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Sharath-Devadiga&show_icons=true&theme=radical" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Sharath-Devadiga&show_icons=true&theme=radical" height="180" alt="GitHub stats" class="cursor-pointer" />
-  </a>
-  <a href="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Sharath_Devadiga&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=4&theme=radical&hide_border=false" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Sharath-Devadiga&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=4&theme=radical&hide_border=false" height="180" alt="Top languages" class="cursor-pointer" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Connect
-
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sharath-devadiga-43471b2aa
-)
-
-<br><br>
 
 **✦ Build it. Break it. Understand it. Improve it. ✦**
 
