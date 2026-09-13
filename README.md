@@ -4,9 +4,13 @@
 
 ### Full-Stack Developer · Builder · Curious About Systems
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devadigascode.site-181717?style=flat-square)](https://devadigascode.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
-[![Email](https://img.shields.io/badge/📧_sharath13feb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-5B5BFF?style=flat-square)](https://devadigascode.site)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/✉%20Email-E06C75?style=flat-square)](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)
+&nbsp;&nbsp;
 
 </div>
 
@@ -76,9 +80,10 @@ Mood-based posts · Authentication · Comments · Feed ranking
 Bookmarks · Media embeds · Attachments · Shareable collections
 
 ---
+<div align="center">
+  **✦ Build it. Break it. Understand it. Improve it. ✦**
+</div>
 
-
-**✦ Build it. Break it. Understand it. Improve it. ✦**
 
 </div>
 
