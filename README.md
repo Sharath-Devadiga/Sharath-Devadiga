@@ -88,12 +88,17 @@ Bookmarks · Media embeds · Attachments · Shareable collections
 
 ---
 
+<div align="center">
+
 ## 🤝 Connect
+
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharath13feb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
 
-<br>
+<br><br>
 
-**Build it. Break it. Understand it. Improve it.**
+**✦ Build it. Break it. Understand it. Improve it. ✦**
+
+</div>
 
 </div>
