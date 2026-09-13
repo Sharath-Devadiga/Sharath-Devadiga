@@ -2,12 +2,12 @@
 
 ### Full-Stack Developer · TypeScript · Next.js · Node.js
 
-I like building things that actually work — from APIs and database systems
-to real-time applications and AI-powered features.
+Tech enthusiast and IT graduate who likes taking things apart to understand
+how they work — then building them back better.
 
-Currently working mostly with TypeScript, Next.js, Node.js, PostgreSQL
-and MongoDB.
-
+Mostly working with full-stack development, backend systems, databases,
+and real-time applications. Currently exploring infrastructure,
+operations, and AI-powered applications.
 ---
 
 ## 🛠️ Things I Work With
