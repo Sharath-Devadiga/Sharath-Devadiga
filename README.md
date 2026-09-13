@@ -10,7 +10,7 @@
 
 ---
 
-I like taking things apart to understand how they work — and then building
+I like taking things apart to understand how they work - and then building
 them back better.
 
 My background is in full-stack development, but I'm equally interested in
