@@ -89,10 +89,8 @@ Bookmarks · Media embeds · Attachments · Shareable collections
 ---
 
 ## 🤝 Connect
-
-[Portfolio](https://devadigascode.site) ·
-[LinkedIn](https://www.linkedin.com/in/sharath-devadiga) ·
-[Email](mailto:sharath13feb@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharath13feb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
 
 <br>
 
