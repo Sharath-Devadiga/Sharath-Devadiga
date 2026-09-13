@@ -1,105 +1,87 @@
+<div align="center">
+
 # 👋 Hey, I'm Sharath
 
-### Full-Stack Developer 
+### Full-Stack Developer · Builder · Curious About Systems
 
-Tech enthusiast and IT graduate who likes taking things apart to understand
-how they work — then building them back better.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devadigascode.site-111111?style=for-the-badge)](https://devadigascode.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sharath-Devadiga&style=for-the-badge&color=111111&label=PROFILE+VIEWS)](https://github.com/Sharath-Devadiga)
 
-Mostly working with full-stack development, backend systems, databases, and real-time applications. Currently exploring infrastructure, operations, and AI-powered applications.
-
----
-
-## 🛠️ Things I Work With
-
-**Languages**  
-`JavaScript` `TypeScript` `C/C++`
-
-**Frontend**  
-`React` `Next.js` `Tailwind CSS` `Zustand`
-
-**Backend**  
-`Node.js` `Express` `Socket.IO` `Prisma`
-
-**Database**  
-`PostgreSQL` `MongoDB` `MySQL`
-
-**Tools**  
-`Git` `Docker` `Postman`
+</div>
 
 ---
 
-## 🚀 Things I've Built
+> I like taking things apart to understand how they work —
+> then building them back better.
 
-### 🧠 CacheUpp · [LIVE ↗](https://cacheupp.devadigascode.site)
+Mostly working with **TypeScript, Next.js, Node.js, PostgreSQL and MongoDB**.
+I enjoy building full-stack products, real-time systems, and figuring out
+how different pieces of a system fit together.
 
-A social platform built for college communities.
+Currently exploring **backend architecture, infrastructure, AI-powered applications
+and system design.**
+
+---
+
+## ⚡ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,socketio,docker,git,github,postman" />
+
+</p>
+
+---
+
+## 🚀 Selected Builds
+
+### 🧠 CacheUpp · [LIVE ↗](https://cacheupp.devadigascode.site/)
+
+> Social & community platform built for college communities.
 
 `React` `TypeScript` `Node.js` `MongoDB` `PostgreSQL` `Prisma` `pgvector`
 
-- Real-time messaging & online presence
-- Semantic search with embeddings + pgvector
-- Forums, feeds, friendships, notifications & moderation
-- Dual-database architecture
+Real-time messaging · Semantic search · Forums · Notifications
 
 ---
 
-### 📚 StudyVerse · [LIVE ↗](studyverse.devadigascode.site)
+### 📚 StudyVerse · [LIVE ↗](https://studyverse.devadigascode.site/)
 
-A collaborative study-room platform with real-time channels.
+> Real-time collaborative study rooms for university students.
 
 `Next.js` `Express` `Socket.IO` `PostgreSQL` `Prisma` `Gemini`
 
-- Real-time channel messaging
-- Semester-based study rooms
-- Optimistic UI + reconnect handling
-- AI-generated discussion summaries
+Live channels · AI summaries · Optimistic UI · Reconnection handling
 
 ---
 
-### ✍️ MoodBlog · [GitHub ↗](moodblog.devadigascode.site)
+### ✍️ MoodBlog · [LIVE ↗](https://moodblog.devadigascode.site/)
 
-A mood-based social blogging platform.
+> A social blogging platform built around moods.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Zustand`
 
-- Posts, likes & nested comments
-- Authentication + email verification
-- Image uploads with Cloudinary
-- Custom feed ranking
+Mood-based posts · Authentication · Comments · Feed ranking
 
 ---
 
-### 🧠 BrainApp · [GitHub ↗](https://brainers.devadigascode.site/)
+### 🧠 BrainApp · [LIVE ↗](https://brainers.devadigascode.site/)
 
-A place to collect, organize and share useful content.
+> A personal knowledge space for saving and sharing useful content.
 
-`React` `TypeScript` `Node.js` `MongoDB` `Tailwind`
+`React` `TypeScript` `Node.js` `MongoDB` `Tailwind CSS`
 
-- Save YouTube, Twitter & personal notes
-- Media embeds & file attachments
-- Shareable read-only collections
+Bookmarks · Media embeds · Attachments · Shareable collections
 
 ---
 
-## ⚡ Currently Exploring
+## 🧩 What I'm Into
 
-`System Design` · `PostgreSQL` · `AI/LLM Applications`
-`Backend Architecture` · `Real-Time Systems`
-
----
-
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharath-Devadiga&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath-Devadiga&layout=compact&hide_border=true)
----
-
-## 🤝 Find Me
-
-[LinkedIn](https://www.linkedin.com/in/sharath-devadiga) ·
-[Email](mailto:sharath13feb@gmail.com)
-
----
-
-> Build → Break → Fix → Learn → Repeat.
+```text
+Full-Stack Development    ████████████████████
+Backend Systems            ██████████████████░░
+Databases                  █████████████████░░░
+Real-Time Applications     ████████████████░░░░
+AI / LLM Applications      ██████████████░░░░░░
+Infrastructure             ████████████░░░░░░░░
