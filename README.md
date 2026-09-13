@@ -4,13 +4,13 @@
 
 ### Full-Stack Developer · Builder · Curious About Systems
 
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-5B5BFF?style=flat-square)](https://devadigascode.site)
-&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
-&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/✉%20Email-E06C75?style=flat-square)](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+**[🌐 Portfolio](https://devadigascode.site)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**[LinkedIn](https://www.linkedin.com/in/sharath-devadiga)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**[✉ Email](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)**
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -35,8 +35,10 @@ applications, and system design.**
 ## 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,prisma,socket.io,tailwind,docker,git,github,postman&perline=23" width="850" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,prisma,tailwind,docker,git,github,postman&perline=22" width="850" />
 </p>
+
+`Socket.IO` · `Zustand` · `JWT` · `pgvector`
 ---
 
 ## 🧩 Selected Builds
@@ -81,7 +83,9 @@ Bookmarks · Media embeds · Attachments · Shareable collections
 
 ---
 <div align="center">
-  **✦ Build it. Break it. Understand it. Improve it. ✦**
+
+**✦ Build it. Break it. Understand it. Improve it. ✦**
+
 </div>
 
 
