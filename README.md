@@ -35,7 +35,7 @@ applications, and system design.**
 
 ## 🧩 Selected Builds
 
-### 🧠 CacheUpp · <sup>[LIVE ↗](https://cacheupp.devadigascode.site/)</sup>
+### 🧠 CacheUpp · <sup>[↗](https://cacheupp.devadigascode.site/)</sup>
 
 > Social & community platform built for college communities.
 
@@ -45,7 +45,7 @@ Real-time messaging · Semantic search · Forums · Notifications
 
 ---
 
-### 📚 StudyVerse · <sup>[LIVE ↗](https://studyverse.devadigascode.site/)</sup>
+### 📚 StudyVerse · <sup>[↗](https://studyverse.devadigascode.site/)</sup>
 
 > Real-time collaborative study rooms for university students.
 
@@ -55,7 +55,7 @@ Live channels · AI summaries · Optimistic UI · Reconnection handling
 
 ---
 
-### ✍️ MoodBlog · <sup>[LIVE ↗](https://moodblog.devadigascode.site/)</sup>
+### ✍️ MoodBlog · <sup>[↗](https://moodblog.devadigascode.site/)</sup>
 
 > A social blogging platform built around moods.
 
@@ -65,7 +65,7 @@ Mood-based posts · Authentication · Comments · Feed ranking
 
 ---
 
-### 🧠 BrainApp · <sup>[LIVE ↗](https://brainers.devadigascode.site/)</sup>
+### 🧠 BrainApp · <sup>[↗](https://brainers.devadigascode.site/)</sup>
 
 > A personal knowledge space for saving and sharing useful content.
 
