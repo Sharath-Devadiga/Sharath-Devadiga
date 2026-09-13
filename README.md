@@ -36,7 +36,7 @@ applications, and system design.**
 ## 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,prisma,tailwind,docker,git,github,postman&perline=22" width="850" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,prisma,tailwind,docker,git,github,postman&perline=22" width="850" />
 </p>
 
 ---
