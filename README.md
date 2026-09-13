@@ -5,7 +5,7 @@
 I'm a Full-Stack Developer and Information Technology graduate from Mumbai University,
 focused on building reliable, scalable, and user-friendly web applications.
 
-I enjoy working across the stack — from designing REST APIs and database architectures
+I enjoy working across the stack - from designing REST APIs and database architectures
 to building real-time features and integrating AI-powered functionality.
 
 ---
