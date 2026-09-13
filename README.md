@@ -7,7 +7,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 **[🌐 Portfolio](https://devadigascode.site)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**[LinkedIn](https://www.linkedin.com/in/sharath-devadiga)**
+**[LinkedIn](https://www.linkedin.com/in/sharath-devadiga-43471b2aa
+)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **[✉ Email](https://mail.google.com/mail/?view=cm&fs=1&to=sharath13feb@gmail.com)**
 &nbsp;&nbsp;&nbsp;&nbsp;
