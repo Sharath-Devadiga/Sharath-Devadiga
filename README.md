@@ -4,39 +4,39 @@
 
 ### Full-Stack Developer · Builder · Curious About Systems
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devadigascode.site-111111?style=for-the-badge)](https://devadigascode.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-devadiga)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sharath-Devadiga&style=for-the-badge&color=111111&label=PROFILE+VIEWS)](https://github.com/Sharath-Devadiga)
+[Portfolio](https://devadigascode.site) · [LinkedIn](https://www.linkedin.com/in/sharath-devadiga)
 
 </div>
 
 ---
 
-> I like taking things apart to understand how they work —
-> then building them back better.
+I like taking things apart to understand how they work — and then building
+them back better.
+
+My background is in full-stack development, but I'm equally interested in
+what happens underneath: backend systems, databases, infrastructure, and
+how different pieces come together at scale.
 
 Mostly working with **TypeScript, Next.js, Node.js, PostgreSQL and MongoDB**.
-I enjoy building full-stack products, real-time systems, and figuring out
-how different pieces of a system fit together.
+I enjoy building full-stack products, real-time systems, and experimenting
+with new tools along the way.
 
-Currently exploring **backend architecture, infrastructure, AI-powered applications
-and system design.**
+Currently exploring **backend architecture, infrastructure, AI-powered
+applications, and system design.**
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Languages & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,socketio,docker,git,github,postman" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,html,css,react,nextjs,nodejs,express,postgres,mongodb,mysql,prisma,socketio,tailwind,docker,git,github,postman" />
 </p>
 
 ---
 
-## 🚀 Selected Builds
+## 🧩 Selected Builds
 
-### 🧠 CacheUpp · [LIVE ↗](https://cacheupp.devadigascode.site/)
+### 🧠 CacheUpp · <sub>[LIVE ↗](https://cacheupp.devadigascode.site/)</sub>
 
 > Social & community platform built for college communities.
 
@@ -46,7 +46,7 @@ Real-time messaging · Semantic search · Forums · Notifications
 
 ---
 
-### 📚 StudyVerse · [LIVE ↗](https://studyverse.devadigascode.site/)
+### 📚 StudyVerse · <sub>[LIVE ↗](https://studyverse.devadigascode.site/)</sub>
 
 > Real-time collaborative study rooms for university students.
 
@@ -56,7 +56,7 @@ Live channels · AI summaries · Optimistic UI · Reconnection handling
 
 ---
 
-### ✍️ MoodBlog · [LIVE ↗](https://moodblog.devadigascode.site/)
+### ✍️ MoodBlog · <sub>[LIVE ↗](https://moodblog.devadigascode.site/)</sub>
 
 > A social blogging platform built around moods.
 
@@ -66,7 +66,7 @@ Mood-based posts · Authentication · Comments · Feed ranking
 
 ---
 
-### 🧠 BrainApp · [LIVE ↗](https://brainers.devadigascode.site/)
+### 🧠 BrainApp · <sub>[LIVE ↗](https://brainers.devadigascode.site/)</sub>
 
 > A personal knowledge space for saving and sharing useful content.
 
@@ -76,12 +76,23 @@ Bookmarks · Media embeds · Attachments · Shareable collections
 
 ---
 
-## 🧩 What I'm Into
+## 📊 GitHub
 
-```text
-Full-Stack Development    ████████████████████
-Backend Systems            ██████████████████░░
-Databases                  █████████████████░░░
-Real-Time Applications     ████████████████░░░░
-AI / LLM Applications      ██████████████░░░░░░
-Infrastructure             ████████████░░░░░░░░
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect
+
+[Portfolio](https://devadigascode.site) ·
+[LinkedIn](https://www.linkedin.com/in/sharath-devadiga) ·
+[Email](mailto:sharath13feb@gmail.com)
+
+<br>
+
+**Build it. Break it. Understand it. Improve it.**
+
+</div>
